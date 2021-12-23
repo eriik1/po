@@ -1,0 +1,15 @@
+body
+{
+background-image: url("background1.jpg");
+}
+h3{
+    background-color: aqua;
+    line-height: 2;
+    color: blue;
+}
+canvas{
+    border:3px solid  red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    
+}
